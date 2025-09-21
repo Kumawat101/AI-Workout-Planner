@@ -1,0 +1,5 @@
+{
+  "name": "AI Workout Planner",
+  "description": "Generate personalized workout plans tailored to your goals, fitness level, and available equipment using the power of AI. Simply fill out the form, and our AI will craft a custom fitness routine just for you.",
+  "requestFramePermissions": []
+}
